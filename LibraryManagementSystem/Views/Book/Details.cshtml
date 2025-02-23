@@ -1,0 +1,22 @@
+﻿@model LibraryManagementSystem.Models.Book
+
+@{
+    Layout = "_Layout";
+}
+
+<h2>Book Details</h2>
+
+<div class="card">
+    <div class="card-header">
+        <h3>@Model.Title</h3>
+    </div>
+    <div class="card-body">
+        <p><strong>Genre:</strong> @Model.Genre</p>
+        <p><strong>Publish Date:</strong> @Model.PublishDate.ToShortDateString()</p>
+        <p><strong>ISBN:</strong> @Model.ISBN</p>
+        <p><strong>Copies Available:</strong> @Model.CopiesAvailable</p>
+        <p><strong>Author Id:</strong> @Model.AuthorId</p>
+    </div>
+</div>
+
+<a class="btn btn-primary mt-3" asp-controller="Book" asp-action="List">Back to List</a>

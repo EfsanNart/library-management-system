@@ -1,0 +1,23 @@
+﻿@model LibraryManagementSystem.Models.ViewModels.AuthorAddViewModel
+
+@{
+    Layout = "_Layout";
+}
+
+<h2>Yeni Yazar Ekle</h2>
+
+<form method="post" asp-controller="Author" asp-action="Add">
+    <div class="mb-3">
+        <label class="form-label">Ad</label>
+        <input asp-for="FirstName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Soyad</label>
+        <input asp-for="LastName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Doğum Tarihi</label>
+        <input asp-for="DateOfBirth" type="date" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

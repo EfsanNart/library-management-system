@@ -1,0 +1,36 @@
+﻿@model IEnumerable<LibraryManagementSystem.Models.ViewModels.AuthorListViewModel>
+
+@{
+    Layout = "_Layout";
+}
+
+<h2>Yazarlar</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Ad Soyad</th>
+            <th>Doğum Tarihi</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var author in Model)
+        {
+            <tr>
+                <td>@author.FullName</td>
+                <td>@author.DateOfBirth.ToShortDateString()</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" asp-controller="Author" asp-action="Update" asp-route-id="@author.Id">
+                        Düzenle
+                    </a>
+                    <a class="btn btn-danger btn-sm" asp-controller="Author" asp-action="Delete" asp-route-id="@author.Id">
+                        Sil
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-primary" asp-controller="Author" asp-action="Add">Yeni Yazar Ekle</a>

@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\book\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\book\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\author\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\author\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\author\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\author\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\views\\author\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:views\\author\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\models\\viewmodels\\bookupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:models\\viewmodels\\bookupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\models\\viewmodels\\booklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:models\\viewmodels\\booklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\models\\viewmodels\\bookaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:models\\viewmodels\\bookaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\models\\viewmodels\\authorupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:models\\viewmodels\\authorupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\models\\viewmodels\\authorlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:models\\viewmodels\\authorlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\models\\viewmodels\\authoraddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:models\\viewmodels\\authoraddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\wwwroot\\images\\background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:wwwroot\\images\\background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|c:\\users\\user\\documents\\github\\library-management-system\\librarymanagementsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BEDCEB5-F144-4345-BD74-D87358DCC3F6}|LibraryManagementSystem.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:01:29.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:04:35.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T07:29:18.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Book\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Book\\Update.cshtml",
+              "RelativeToolTip": "Views\\Book\\Update.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T23:56:15.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Book\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\List.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Book\\List.cshtml",
+              "RelativeToolTip": "Views\\Book\\List.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:05:24.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:00:47.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T23:51:47.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:04:20.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:25:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:05:33.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Book\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Add.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Book\\Add.cshtml",
+              "RelativeToolTip": "Views\\Book\\Add.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:05:51.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Author\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Author\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Author\\Update.cshtml",
+              "RelativeToolTip": "Views\\Author\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T00:31:50.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Author\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Author\\List.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Author\\List.cshtml",
+              "RelativeToolTip": "Views\\Author\\List.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T00:00:07.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Author\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Author\\Add.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Views\\Author\\Add.cshtml",
+              "RelativeToolTip": "Views\\Author\\Add.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T00:32:16.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:13:19.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:17:48.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\BookUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\BookUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\BookUpdateViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\BookUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:59:14.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\BookListViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\BookListViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\BookListViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\BookListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:59:00.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookAddViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\BookAddViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\BookAddViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\BookAddViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\BookAddViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:58:51.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthorUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\AuthorUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\AuthorUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\AuthorUpdateViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\AuthorUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:00:11.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthorListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\AuthorListViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\AuthorListViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\AuthorListViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\AuthorListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:59:55.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthorAddViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\AuthorAddViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\AuthorAddViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Models\\ViewModels\\AuthorAddViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\AuthorAddViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:59:36.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:22:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:19:46.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:03:49.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "background.jpg - Bitmap [1920x729, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\wwwroot\\images\\background.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\background.jpg",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\wwwroot\\images\\background.jpg - Bitmap [1920x729, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\background.jpg - Bitmap [1920x729, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-23T12:14:16.124Z",
+              "EditorCaption": " - Bitmap [1920x729, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\library-management-system\\LibraryManagementSystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T23:47:32.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

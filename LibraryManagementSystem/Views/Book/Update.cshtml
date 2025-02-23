@@ -1,0 +1,45 @@
+﻿@model LibraryManagementSystem.Models.ViewModels.BookUpdateViewModel
+
+@{
+    Layout = "_Layout";
+}
+
+<h2>Edit Book</h2>
+
+<form method="post" asp-controller="Book" asp-action="Update">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label class="form-label">Title</label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Author</label>
+        <select asp-for="AuthorId" class="form-control"
+                asp-items="@(new SelectList(ViewBag.Authors, "Id", "FirstName"))">
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Genre</label>
+        <input asp-for="Genre" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Publish Date</label>
+        <input asp-for="PublishDate" type="date" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">ISBN</label>
+        <input asp-for="ISBN" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Copies Available</label>
+        <input asp-for="CopiesAvailable" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-warning">Save Changes</button>
+</form>
